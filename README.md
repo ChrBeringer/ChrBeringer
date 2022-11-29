@@ -1,5 +1,4 @@
-Analytical chemistry inside.
-Powered by modern data-technology.
+I am interessted in data-processing, simulations and automation of laboratory/QM-processes.
+As a food-chemist I gathered experience inside the laboratories of different analytical service providers as analytical service manager. Most laboratories and researchers use Excel intuitively out of habit for evaluation of measurments, quality-assurance tasks up to data-storage and order managment. Some are adding some abilities in Visual Basic Scripting, but most data processes are still driven by manual inputs. At these point I recognized, that manual data-inputs are starting to become a risk for your process-quality and slowing down your process significantly. For me that was the point to start learning Python, while learning some basics of software-architectures, servers and databases.
 
-As a food-chemist I gathered experience inside the laboratories of different analytical service providers as analytical service manager, where I started to get interested
-in laboratory-software-structures, lab-automation, data-managment and the optimization of laboratory and research-processes with digitalization.
+Right now I am now working as an analytical chemist with HPLC and mass-spectrometry in the field of water-technologies within Advanced Oxidation Processes, while building up digital tools for automated data analysis.
