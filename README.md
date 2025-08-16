@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Christian Beringer
-**Digital Analytical Chemist | Food & Environmental Analytics | Chemoinformatics & Data Science**  
-
+## Hi, I’m Christian Beringer
 > "Digital Analytical Chemist inside!" ⚗️💻
+
+**Digital Analytical Chemist | Food & Environmental Analytics | Chemoinformatics & Data Science**  
 
 ---
 
@@ -16,7 +16,7 @@ Currently, I am working for my PhD-Thesis at
 - Feature-Engineering in QSAR
 
 ---
-# 🛠 Skills & Tools
+### 🛠 Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -31,7 +31,7 @@ Currently, I am working for my PhD-Thesis at
 
 ---
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 <!--
 - Advanced **QSPR/QSAR modeling** for environmental and regulatory chemistry  
 - Distributed and automated **data pipelines** for chemical data
@@ -48,15 +48,14 @@ Currently, I am working for my PhD-Thesis at
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 ![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrBeringer&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrBeringer&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/christian-beringer)  
-- [Twitter](https://twitter.com/) – optional  
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/christian-beringer-263650104/)  
 
 ---
 `
