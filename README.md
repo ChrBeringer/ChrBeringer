@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Christian Beringer
-**Digital Analytical Chemist | Food & Environmental Analytics | Chemoinformatics & Data Science**
+**Digital Analytical Chemist | Food & Environmental Analytics | Chemoinformatics & Data Science**  
+
+> "Digital Analytical Chemist inside!" ⚗️💻
 
 ---
 
@@ -13,15 +15,18 @@ Currently, I work at **University of Jena** on:
 - **QSPR/QSAR modeling** of Advanced Oxidation Processes  
 - Automated pipelines for chemical data analysis  
 
-My fascination lies in **applying data science to real-world, regulatory, and societal challenges in chemistry**.
-
 ---
 
-## 🛠 Skills
-- **Programming & Data:** Python, R, JavaScript, SQL, Data Analysis, Data Management  
-- **Chemoinformatics:** QSAR/QSPR, Molecular Fingerprints, Computational Chemistry  
-- **Analytics & Lab Skills:** HPLC, MS, Food & Environmental Analytics  
-- **Other Tools:** Git, Docker, FastAPI, Flask  
+## 🛠 Skills & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -33,9 +38,15 @@ My fascination lies in **applying data science to real-world, regulatory, and so
 ---
 
 ## 💡 Projects
-- **[chemdataDB](https://github.com/StructoNaut_Service/chemdataDB)** – Python & FastAPI based chemical database for substance, property, and fingerprint data  
+- **[chemdataDB](https://github.com/StructoNaut_Service/chemdataDB)** – Python & FastAPI chemical database for substances, properties & fingerprints  
 - **Automated Data Analysis Tools** – HPLC & MS data processing in Python  
-- QSAR/QSPR modeling pipelines for **Advanced Oxidation Processes**  
+- **QSAR/QSPR pipelines** – Modeling of Advanced Oxidation Processes  
+
+---
+
+## 📊 GitHub Stats
+![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ---
 
@@ -44,5 +55,4 @@ My fascination lies in **applying data science to real-world, regulatory, and so
 - [Twitter](https://twitter.com/) – optional  
 
 ---
-
-> "Digital Analytical Chemist inside!" ⚗️💻
+`
