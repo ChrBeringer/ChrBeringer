@@ -28,24 +28,31 @@ Currently, I am working for my PhD-Thesis at
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrBeringer&layout=compact&theme=radical)
 
+### 📫 Connect with Me on [LinkedIn](https://www.linkedin.com/in/christian-beringer-263650104/)  
+<!--
 ---
 
 ### 🌱 Currently Learning
-<!--
+
 - Advanced **QSPR/QSAR modeling** for environmental and regulatory chemistry  
 - Distributed and automated **data pipelines** for chemical data
--->
+
 
 - JavaScript frameworks for **interactive data visualization**  
 - Advantages of R in chemical data analysis
 ---
+-->
 
+<!--
 ## 💡 Projects
 - **[chemdataDB](https://github.com/StructoNaut_Service/chemdataDB)** – Python & FastAPI chemical database for substances, properties & fingerprints  
 - **Automated Data Analysis Tools** – HPLC & MS data processing in Python  
 - **QSAR/QSPR pipelines** – Modeling of Advanced Oxidation Processes  
+-->
 
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -53,9 +60,4 @@ Currently, I am working for my PhD-Thesis at
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrBeringer&layout=compact&theme=radical)
 
 ---
-
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/christian-beringer-263650104/)  
-
----
-`
+-->
