@@ -33,6 +33,21 @@ Currently, I am working for my PhD-Thesis at
 -->
 
 ### 📫 Connect with Me on [LinkedIn](https://www.linkedin.com/in/christian-beringer-263650104/)  
+
+<!--
+---
+
+### 🌱 Currently Learning
+
+- Advanced **QSPR/QSAR modeling** for environmental and regulatory chemistry  
+- Distributed and automated **data pipelines** for chemical data
+
+
+- JavaScript frameworks for **interactive data visualization**  
+- Advantages of R in chemical data analysis
+---
+-->
+
 <!--
 ---
 
