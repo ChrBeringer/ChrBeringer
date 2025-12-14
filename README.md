@@ -1,5 +1,5 @@
 ## Hi, I’m Christian Beringer
-> "Digital Analytical Chemist inside!" ⚗️💻
+> "Connecting Chemistry to Data." ⚗️💻
 
 **Digital Analytical Chemist | Food & Environmental Analytics | Chemoinformatics & Data Science**  
 
