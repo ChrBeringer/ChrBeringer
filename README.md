@@ -28,7 +28,9 @@ Currently, I am working for my PhD-Thesis at
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 -->
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrBeringer&layout=compact&theme=radical)
+-->
 
 ### 📫 Connect with Me on [LinkedIn](https://www.linkedin.com/in/christian-beringer-263650104/)  
 <!--
